@@ -5,10 +5,10 @@ on:
     branches:
       - main  # Set a branch to deploy
     paths:
-      - **
+      - '**'
   pull_request:
     paths:
-      - **
+      - '**'
 
 jobs:
   deploy:
