@@ -1,8 +1,8 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://example.com/"
-title = "Hugo Theme MemE"
+baseURL = "https://simpleaisafety.org/"
+title = "Simple AI Safety"
 languageCode = "en"
 hasCJKLanguage = false
 # Copyright information (Markdown supported)
@@ -98,17 +98,17 @@ uglyURLs = false
 # Author’s information
 [author]
     # Name
-    name = "reuixiy"
+    name = "SAIS Team"
     # Email
-    email = "reuixiy@gmail.com"
+    email = "info@simpleaisafety.org"
     # Motto or introduction
-    motto = "Viva La Vida"
+    motto = "Simple explanations for AI safety concepts."
     # Avatar
     avatar = "/icons/apple-touch-icon.png"
     # Personal website, default: baseURL
-    website = "https://io-oi.me/"
+    website = "https://simpleaisafety.org"
     # Twitter
-    twitter = "reuixiy"
+    #twitter = "reuixiy"
 
 # Related content
 [related]
@@ -359,15 +359,15 @@ uglyURLs = false
     siteLogo = "/icons/apple-touch-icon.png"
     # Note: used for JSON-LD, Open Graph
 
-    siteDescription = "MemE is a powerful and highly customizable GoHugo theme for personal blogs."
+    siteDescription = "Simple explanations for AI safety concepts."
     # Note: used for HTML head meta, JSON-LD,
     #       Open Graph, Atom, RSS
 
-    siteCreatedTime = "1969-07-20T20:17:43+00:00"
+    siteCreatedTime = "2023-09-01T13:00:00+00:00"
     # ATTENTION: keep this format, change
     #            the number
 
-    siteTwitter = "reuixiy"
+    #siteTwitter = "reuixiy"
     # Note: used for Twitter Cards
 
 
@@ -1451,7 +1451,7 @@ uglyURLs = false
     # Customize host for third-party libraries
 
     [params.lib]
-        host = "https://cdn.jsdelivr.net"
+        host = "https://cdn.jsdelivr.net" # TODO Include locally
         # Note: set it to root("/") and set
         #       the path below if you want to host
         #       the lib directly from “local”.
