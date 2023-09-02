@@ -5,6 +5,8 @@ summary: Almost any level of intelligence can in principle pursue
   almost any goal.
 ---
 
+![Orthogonality thesis](/orthogonality_thesis.jpg)
+
 # Basic
 
 The orthogonality thesis is the belief that any level of intelligence can be 
