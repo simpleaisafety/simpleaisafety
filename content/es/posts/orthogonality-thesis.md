@@ -1,3 +1,11 @@
+---
+title: "La tesis de la ortogonalidad"
+date: 2023-09-02T10:37:15+02:00
+summary: Casi cualquier nivel de inteligencia puede, en principio, perseguir casi cualquier objetivo.
+---
+
+![Orthogonality thesis](/orthogonality_thesis.jpg 'Cualquier nivel de inteligencia puede, en principio, perseguir cualquier objetivo. Lo más importante, en el cuadrante inferior derecho, vemos que incluso una IA muy avanzada puede preocuparse por algo muy básico como crear clips de papel. No necesariamente prefiere perseguir objetivos "superiores" como la paz mundial.')
+
 # Basico
 
 La tesis de la ortogonalidad es la creencia de que cualquier nivel de inteligencia puede ir acompañado de cualquier objetivo final. La inteligencia y los objetivos son simplemente dos cosas separadas que no tienen por qué depender una de la otra. Un ejemplo es jugar a un videojuego en el que puedes ajustar dos deslizadores: uno para la inteligencia de tu personaje y otro para sus valores morales o objetivos. Aumentar el deslizador de la inteligencia no mueve automáticamente el deslizador de objetivos hacia "bueno" o "malo". Son ortogonales o independientes entre sí. En el contexto de la IA, esto implica que un sistema que ha aprendido a perseguir un cierto objetivo no se dará cuenta de que el objetivo es "estúpido" o "poco ético" debido a su inteligencia.
