@@ -1,5 +1,5 @@
 ---
-title: "Orthogonality Thesis"
+title: "La tesis de la ortogonalidad"
 date: 2023-09-02T10:37:15+02:00
 summary: Casi cualquier nivel de inteligencia puede, en principio, perseguir casi cualquier objetivo.
 ---

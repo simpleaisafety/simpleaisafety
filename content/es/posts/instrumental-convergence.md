@@ -1,5 +1,5 @@
 ---
-title: "Instrumental Convergence"
+title: "La convergencia instrumental"
 date: 2023-09-01T17:45:20+02:00
 summary: Los humanos u otras entidades a menudo adoptarán estrategias intermedias similares para ayudarles a alcanzar sus objetivos finales.
 ---

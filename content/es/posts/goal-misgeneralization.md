@@ -1,5 +1,5 @@
 ---
-title: "Goal Misgeneralization"
+title: "La generalización errónea de objetivos"
 date: 2023-09-02T10:56:45+02:00
 summary: Los sistemas inteligentes pueden perseguir un objetivo de maneras inesperadas, lo que potencialmente podría llevar a resultados no deseados.
 ---
