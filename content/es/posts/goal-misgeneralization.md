@@ -17,6 +17,8 @@ En sistemas más complejos, esto puede escalar a comportamientos potencialmente 
 
 # Avanzado
 
+(enlaces en ingles)
+
 - https://www.deepmind.com/blog/how-undesired-goals-can-arise-with-correct-rewards
 - https://ahiru.pl/notes/agisf_goal_misgeneralization/ 
 - https://www.lesswrong.com/posts/Cfe2LMmQC4hHTDZ8r/more-examples-of-goal-misgeneralization 
