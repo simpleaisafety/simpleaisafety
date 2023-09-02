@@ -7,6 +7,7 @@ Website https://simpleaisafety.org
 
 * [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 * [Install Hugo](https://gohugo.io/installation/)
+* Use some Git tool (e.g. Git Bash) and go the the directory on your PC where you want to save the project.
 * Get the project e.g. by executing `git clone git@github.com:simpleaisafety/simpleaisafety.git`
 * Inside the project directory use a terminal/console to execute `hugo server`
 * Access the website with http://localhost:1313
