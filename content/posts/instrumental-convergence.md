@@ -5,6 +5,8 @@ summary: Humans or other entities will often adopt similar intermediate
   strategies to help them achieve their ultimate goals.
 ---
 
+![Instrumental Convergence](/instrumental_convergence.png)
+
 # Basic
 
 Instrumental convergence means that humans, or any other entities, with different ultimate goals will often adopt similar intermediate strategies, known as instrumental goals, to help them achieve their ultimate goals. For example, three friends who are training to be a scientist, lawyer and athlete respectively will all benefit from time-management skills to juggle their responsibilities, social skills to build useful networks, and a healthy amount of sleep to recover from their busy schedules. In the context of AI, this implies that AI systems will be motivated to achieve certain instrumental goals, such as resource acquisition, improved capabilities, and ultimately self-preservation to prevent being shut down.
