@@ -2,7 +2,7 @@
 
 [[socials]]
     id = "rss"
-    url = "/rss.xml"
+    url = "/en/rss.xml" # TODO hardcoded to English
     icon = "rss"
     title = "RSS"
     weight = 1
