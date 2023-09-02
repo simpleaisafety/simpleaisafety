@@ -5,6 +5,8 @@ Website https://simpleaisafety.org
 
 ## How to contribute
 
+### Setup
+
 * [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
   * Why? Git is used to download the website content and then later upload your
     modifications.
@@ -17,8 +19,15 @@ Website https://simpleaisafety.org
   git@github.com:simpleaisafety/simpleaisafety.git`
 * Inside the project directory use a terminal/console to execute `hugo server`.
 * Access the website preview with http://localhost:1313
-* Make changes via PR (pull requests) e.g. as documented
-  [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+
+### Make changes
+
+To modify an existing page edit anything in the `content/` directory.
+
+To create a new page execute something like `hugo new "posts/my-new-concept.md"`
+
+Contribute your modification back to the main project via a pull request e.g. as documented
+[here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
 
 ## Theme
