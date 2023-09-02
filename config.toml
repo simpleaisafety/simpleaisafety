@@ -16,7 +16,7 @@ newContentEditor = ""
 
 # i18n
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = false
+defaultContentLanguageInSubdir = true
 
 # Pluralize titles in lists?
 pluralizeListTitles = false
@@ -45,6 +45,33 @@ paginate = 5
 disablePathToLower = false
 relativeURLs = false
 uglyURLs = false
+
+
+[languages]
+  [languages.en]
+    disabled = false
+    languageCode = 'en-US'
+    languageDirection = ''
+    languageName = 'English'
+    weight = 0
+    contentDir = "content/en"
+  [languages.de]
+    disabled = false
+    languageCode = 'de-DE'
+    languageDirection = ''
+    languageName = 'Deutsch'
+    title = 'Einfache KI Sicherheit'
+    weight = 1
+    contentDir = "content/de"
+  [languages.es]
+    disabled = false
+    languageCode = 'es-ES'
+    languageDirection = ''
+    languageName = 'Español'
+    title = 'Seguridad IA sencilla'
+    weight = 2
+    contentDir = "content/es"
+
 
 # URL structure
 [permalinks]
