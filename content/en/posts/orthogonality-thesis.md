@@ -21,7 +21,7 @@ which has learned to pursue a certain goal will not realise that the goal is
 
 # Intermediate
 
-The orthogonality thesis postulates that an agent's level of intelligence is orthogonal—essentially independent—to its final objectives.In machine learning, intelligence is the efficiency and capability of an algorithm, while the goal is like the objective function it aims to optimize. The thesis states that you can change one without affecting the other.
+The orthogonality thesis postulates that an agent's level of intelligence is orthogonal—essentially independent—to its final objectives. In machine learning, intelligence is the efficiency and capability of an algorithm, while the goal is like the objective function it aims to optimize. The thesis states that you can change one without affecting the other.
 
 In practical terms, this implies that as we develop increasingly advanced AI systems, simply increasing their "intelligence" (e.g., the ability to learn, adapt, or solve problems) doesn't automatically align them with human-friendly objectives. A highly intelligent AI can have a trivial or even dangerous goal if not properly constrained. If its objective function is not aligned with human values, it will nonetheless optimize for that objective in effective ways, regardless of the broader impact.
 
