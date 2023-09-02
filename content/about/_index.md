@@ -6,7 +6,7 @@ date: 2023-09-01T17:30:35+02:00
 The "Simple AI Safety" team is Ethan, Markus, Arran and Omar.
 
 We believe that there is good reason to believe that AI (artificial
-intelligence) will have a severe negative impact on the world in the next years
+intelligence) will have a severe negative impact on the world in the coming years
 or decades.
 
 A big reason why these risks are being neglected is lack of awareness, in
