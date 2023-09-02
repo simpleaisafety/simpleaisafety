@@ -5,7 +5,7 @@ summary: Almost any level of intelligence can in principle pursue
   almost any goal.
 ---
 
-![Orthogonality thesis](/orthogonality_thesis.jpg)
+![Orthogonality thesis](/orthogonality_thesis.jpg 'Any level of intelligence can in principle pursue any goal. Most importantly, in the bottom right quadrant, we see that even a very advanced AI can care about something very basic such as creating paperclips. It doesn\'t necessarily prefer to pursue "higher" goals such as world peace.')
 
 # Basic
 

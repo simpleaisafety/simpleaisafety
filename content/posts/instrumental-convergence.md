@@ -5,7 +5,7 @@ summary: Humans or other entities will often adopt similar intermediate
   strategies to help them achieve their ultimate goals.
 ---
 
-![Instrumental Convergence](/instrumental_convergence.png)
+![Instrumental Convergence](/instrumental_convergence.png 'There are some instrumental sub-goals (representend by the warning sign) that many intelligent agents (the crosses) will want to pursue, mostly independent of their final goals.')
 
 # Basic
 
