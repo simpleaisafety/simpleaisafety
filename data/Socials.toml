@@ -1,0 +1,36 @@
+# For the `icon`, see SVG.toml
+
+[[socials]]
+    id = "rss"
+    url = "/rss.xml"
+    icon = "rss"
+    title = "RSS"
+    weight = 1
+
+[[socials]]
+    id = "email"
+    url = "mailto:info@simpleaisafety.org"
+    icon = "envelope"
+    title = "Email"
+    weight = 2
+
+[[socials]]
+    id = "github"
+    url = "https://github.com/simpleaisafety/simpleaisafety"
+    icon = "github"
+    title = "GitHub"
+    weight = 3
+
+#[[socials]]
+#    id = "twitter"
+#    url = "https://twitter.com/reuixiy"
+#    icon = "twitter"
+#    title = "Twitter"
+#    weight = 4
+#
+#[[socials]]
+#    id = "telegram"
+#    url = "https://t.me/yixiuer"
+#    icon = "telegram"
+#    title = "Telegram"
+#    weight = 5
