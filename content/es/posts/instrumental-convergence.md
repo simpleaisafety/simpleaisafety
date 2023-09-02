@@ -1,3 +1,11 @@
+---
+title: "Instrumental Convergence"
+date: 2023-09-01T17:45:20+02:00
+summary: Los humanos u otras entidades a menudo adoptarán estrategias intermedias similares para ayudarles a alcanzar sus objetivos finales.
+---
+
+![Instrumental Convergence](/instrumental_convergence.png 'Hay algunas metas instrumentales subyacentes (representadas por el signo de advertencia) que muchos agentes inteligentes (las cruces) querrán perseguir, en su mayoría independientemente de sus objetivos finales.')
+
 # Basico
 
 La convergencia instrumental significa que los humanos, u otras entidades, con diferentes objetivos finales a menudo adoptarán estrategias intermedias similares, conocidas como objetivos instrumentales, para ayudarles a alcanzar sus objetivos finales. Por ejemplo, tres amigos que se están formando para ser científico, abogado y atleta respectivamente, todos se beneficiarán de habilidades de gestión del tiempo para equilibrar sus responsabilidades, habilidades sociales para construir redes útiles y una cantidad saludable de sueño para recuperarse de sus apretadas agendas. En el contexto de la IA, esto implica que los sistemas de IA estarán motivados para alcanzar ciertos objetivos instrumentales, como la adquisición de recursos, capacidades mejoradas y, en última instancia, la autopreservación para evitar ser apagados. 
