@@ -1,6 +1,7 @@
 # Simple AI Safety
 
-Website https://simpleaisafety.org
+Source for [SimpleAISafety.org](https://simpleaisafety.org), a website that provides simple,
+intuitive explanations for import AI (artificial intelligence) and AI safety concepts.
 
 
 ## How to contribute
