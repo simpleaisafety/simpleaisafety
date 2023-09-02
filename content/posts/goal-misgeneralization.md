@@ -1,7 +1,6 @@
 ---
 title: "Goal Misgeneralization"
 date: 2023-09-02T10:56:45+02:00
-draft: true
 ---
 
 # Basic 
