@@ -63,6 +63,35 @@ uglyURLs = false
     title = 'Einfache KI Sicherheit'
     weight = 1
     contentDir = "content/de"
+    [languages.de.menu]
+      [[languages.de.menu.main]]
+        pageref = "posts/"
+        name = "Beiträge"
+        weight = 2
+        pre = "internal"
+        post = "archive"
+      [[languages.de.menu.main]]
+        pageref = "categories/"
+        name = "Kategorien"
+        weight = 3
+        pre = "internal"
+        post = "th"
+      [[languages.de.menu.main]]
+        pageref = "about/"
+        name = "Über uns"
+        weight = 5
+        pre = "internal"
+        post = "user-circle"
+      [[languages.de.menu.main]]
+        weight = 6
+        identifier = "theme-switcher"
+      [[languages.de.menu.main]]
+        weight = 7
+        identifier = "lang-switcher"
+      [[languages.de.menu.main]]
+        weight = 8
+        identifier = "search"
+        post = "search"
   [languages.es]
     disabled = false
     languageCode = 'es-ES'
@@ -71,6 +100,35 @@ uglyURLs = false
     title = 'Seguridad IA sencilla'
     weight = 2
     contentDir = "content/es"
+    [languages.es.menu]
+      [[languages.es.menu.main]]
+        pageref = "posts/"
+        name = "Artículos"
+        weight = 2
+        pre = "internal"
+        post = "archive"
+      [[languages.es.menu.main]]
+        pageref = "categories/"
+        name = "Categorías"
+        weight = 3
+        pre = "internal"
+        post = "th"
+      [[languages.es.menu.main]]
+        pageref = "about/"
+        name = "Sobre nosotros"
+        weight = 5
+        pre = "internal"
+        post = "user-circle"
+      [[languages.es.menu.main]]
+        weight = 6
+        identifier = "theme-switcher"
+      [[languages.es.menu.main]]
+        weight = 7
+        identifier = "lang-switcher"
+      [[languages.es.menu.main]]
+        weight = 8
+        identifier = "search"
+        post = "search"
 
 
 # URL structure
