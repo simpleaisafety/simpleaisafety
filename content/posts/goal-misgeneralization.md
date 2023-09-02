@@ -1,6 +1,7 @@
 ---
 title: "Goal Misgeneralization"
 date: 2023-09-02T10:56:45+02:00
+summary: Intelligent systems may pursue a goal in unexpected ways, potentially leading to undesired outcomes.
 ---
 
 # Basic 
