@@ -8,7 +8,7 @@ summary: Intelligent systems may pursue a goal in unexpected ways, potentially l
 
 # Basic 
 
-Goal misgeneralization in AI happens when a computer program or robot tries to achieve a goal but ends up doing it in a way that we didn't expect or want. For example, if you ask a cleaning robot to make sure the floor is "as clean as possible”, you might think it will just vacuum or mop, but what if it decides the best way to have a clean floor is to remove all the furniture and even the carpet? It technically met the goal, but not in the way you intended. This illustrates why it's important to be cautious and precise when giving goals to intelligent and capable machines.
+Goal misgeneralization in AI happens when a computer program or robot tries to achieve a goal but ends up doing it in a way that we didn't expect or want. For example, if you ask a cleaning robot to make sure the floor is "as clean as possible”, you might think it will just vacuum or mop, but what if it decides the best way to have a clean floor is to remove all the furniture and even the carpet? It technically met the goal, but not in the way you intended. This illustrates why it's important to teach AIs under a wide and representative variety of circumstances.
 
 # Intermediate
 
