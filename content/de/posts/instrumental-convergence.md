@@ -18,14 +18,16 @@ Wenn beispielsweise ein hochintelligenter Roboter darauf programmiert wäre, Kaf
 
 # Weiterführend
 
-The concept of instrumental convergence is important to understand when considering the likely goals of advanced AI systems. It describes how various intelligent agents with different ultimate objectives are likely to converge on similar intermediate or "instrumental" goals that are essential for achieving their respective end goals. An example of this is two different ML systems: one designed to develop personalized medicine and another for algorithmic trading. While their ultimate goals are vastly different, they might both benefit from instrumental goals like minimizing latency, maximizing data throughput, or avoiding overfitting. These are convergent instrumental objectives because they are generally useful across different optimization problems.
+Das Konzept der instrumentellen Konvergenz ist wichtig zu verstehen, wenn man die wahrscheinlichen Ziele fortgeschrittener KI-Systeme betrachtet. Es beschreibt, wie verschiedene intelligente Agenten mit unterschiedlichen Endzielen wahrscheinlich zu ähnlichen Zwischen- oder "instrumentellen" Zielen konvergieren, die für das Erreichen ihrer jeweiligen Endziele wesentlich sind. Ein Beispiel hierfür sind zwei verschiedene ML-Systeme: eines für die Entwicklung personalisierter Medizin und ein anderes für den algorithmischen Handel. Obwohl ihre Endziele sehr unterschiedlich sind, könnten beide von instrumentellen Zielen wie der Minimierung der Latenzzeit, der Maximierung des Datendurchsatzes oder der Vermeidung von Overfitting profitieren. Dies sind konvergente instrumentelle Ziele, da sie im Allgemeinen bei verschiedenen Optimierungsproblemen nützlich sind.
 
-More general and advanced ML systems could potentially share instrumental goals which pose significant risks to humanity, such as resource acquisition, self-preservation, and elimination of threats. It isn’t hard to imagine that a system which pursues these goals would constitute a threat to humanity, as it would actively avoid being shut down, and seek to prevent other agents from meddling in its interests.
+Allgemeinere und fortschrittlichere ML-Systeme könnten potenziell instrumentelle Ziele verfolgen, die erhebliche Risiken für die Menschheit darstellen, z. B. die Beschaffung von Ressourcen, die Selbsterhaltung und die Beseitigung von Bedrohungen. Es ist nicht schwer, sich vorzustellen, dass ein System, das diese Ziele verfolgt, eine Bedrohung für die Menschheit darstellt, da es aktiv vermeiden würde, ausgeschaltet zu werden, und versuchen würde, andere Agenten daran zu hindern, sich in seine Interessen einzumischen.
 
 # Fortgeschritten
+
+(Links in Englisch)
 
 - https://arbital.com/p/instrumental_convergence/
 - https://www.lesswrong.com/tag/instrumental-convergence 
 - https://philosophicaldisquisitions.blogspot.com/2014/07/bostrom-on-superintelligence-2.html 
-- Why Would AI Want To Do Bad Things https://www.youtube.com/watch?v=ZeecOKBus3Q 
-- Optimal Policies Tend To Seek Power https://arxiv.org/pdf/1912.01683.pdf 
+- "Why Would AI Want To Do Bad Things" https://www.youtube.com/watch?v=ZeecOKBus3Q 
+- "Optimal Policies Tend To Seek Power" https://arxiv.org/pdf/1912.01683.pdf 
