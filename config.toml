@@ -1359,7 +1359,7 @@ uglyURLs = false
     ######################################
     # Multilingual
 
-    enableLangToggle = false
+    enableLangToggle = true
 
     hideLangToggleInHome = false
 
