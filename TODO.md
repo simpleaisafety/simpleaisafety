@@ -1,0 +1,15 @@
+- Outer Misalignment
+- Inner Misalignment
+- Mesa Optimizer
+- Reward Misspecification
+- Reinforcement Learning from Human Feedback (RLHF)
+- Reward Tampering
+- Reward Hacking
+- Reinforcement Learning
+- Mechanistic Interpretability
+- Alignment
+- Value Learning
+- Corrigibility
+- Optimization
+- Takeoff
+- Timelines
