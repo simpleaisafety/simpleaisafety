@@ -13,3 +13,14 @@
 - Optimization
 - Takeoff
 - Timelines
+- P/doom
+- Deception
+- Agent Foundations
+- Scalable Oversight
+- Robustness
+- Evaluations (evals)
+- Adversarial training
+- Superalignment
+- Constitutional AI
+- Natural abstractions
+- Shard theory
