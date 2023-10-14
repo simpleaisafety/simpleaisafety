@@ -19,7 +19,7 @@ Reward misspecification is a failure mode of aligning AI models, due to the inhe
 
 Say we ask somebody to get us a coffee. This sounds simple, but there are actually a lot of implicit constraints. E.g. it may be acceptable for the person (or AI) to spend a bit of money to achieve the goal - but probably not $50. We implicitly hope that this action will take no more than a few minutes. Also it should happen without any significant collateral damage and without leaving the kitchen in a mess. In [The Hidden Complexity of Wishes](https://www.lesswrong.com/posts/4ARaTpNX62uaL86j6/the-hidden-complexity-of-wishes), Eliezer Yudkowsky states that "There is no safe wish smaller than an entire human morality". This basically explains the problem with specifying reward functions: in principle, we have to make all our implicit constraints explicit in order to create a reward function that doesn't lead to undesirable outcomes when plugging it into an optimization process.
 
-While the above example may sound a bit theoretical, there's actually a lot of documented cases where reward misspecification actually caused AIs to be have in unexpected and undesirable ways.
+While the above example may sound a bit theoretical, there's actually a lot of documented cases where reward misspecification actually caused AIs to behave in unexpected and undesirable ways.
 
 ## Relation to Other Terms
 
