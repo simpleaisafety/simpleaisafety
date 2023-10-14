@@ -25,6 +25,10 @@ While the above example may sound a bit theoretical, there's actually a lot of d
 
 Reward misspecification is closely linked to the widely used term of *outer misalignment*, and describes the discrepancy between what we (as creators of an AI) want and the reward (or loss) function we create to reflect that. Its counterpart, *inner misalignment*, is another failure mode of AI alignment, referring to the discrepancy between the reward (or loss) function and what the AI actually learns. In practice, quite often both things happen: our reward function does not perfectly reflect our true intentions, and the AI ends up learning something different from the actual reward function (see Goal Misgeneralization).
 
+![Inner vs Outer Alignment](/inner-outer-alignment.png 'Diagram showing the relationship between "Inner" and "Outer" alignment')
+
+(Image [source](https://www.lesswrong.com/posts/x2n7mBLryDXuLwGhx/technical-ai-safety-research-landscape-slides))
+
 There's also the term of specification gaming, which generally describes the process of reinforcement learning agents learning to behave in unexpected ways that yield high rewards. This can be considered both good and bad: it can be good in the sense of the AI finding some previously unknown behaviour that actually achieve the goal (e.g. exploits in video games). But quite often it's rather a bad thing, as the AI identifies loopholes in the way the reward function is designed, and exploits them.
 
 # Advanced
