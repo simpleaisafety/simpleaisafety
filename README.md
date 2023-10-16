@@ -4,6 +4,30 @@ Source for [SimpleAISafety.org](https://simpleaisafety.org), a website that prov
 intuitive explanations for import AI (artificial intelligence) and AI safety concepts.
 
 
+# Vision & Goals
+
+We think that AI (artificial intelligence) has a lot of potential for doing
+good but worry that risks are being neglected. One of the reasons for this is
+the lack of easily accessible information both for laypeople and for people
+with a technical background but not already deep into AIS (artificial
+intelligence safety) topics. With easily accessible we mean two things:
+
+* Appropriate given the reader's background knowledge
+* In the reader's native language
+
+To achieve this we want to present concepts that keep appearing in the
+discussion around AI, ML (machine learning) and AIS in increasing leves of
+complexity to cater to as many readers as possible. We also want to leverage
+analogies, metaphors and drawings to serve as _intuition pumps_.
+
+This project is meant to be collaborative. We kindly ask informed readers to
+submit new content, corrections and other kinds of improvements. To do so you
+can submit a pull request (see below), which requires some technical
+background, write a bug report
+(https://github.com/simpleaisafety/simpleaisafety/issues/new/choose) or send us
+an e-mail to info@simpleaisafety.org
+
+
 ## How to contribute
 
 ### Setup
