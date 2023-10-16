@@ -16,7 +16,7 @@ intelligence safety) topics. By easily accessible we mean two things:
 * In the reader's native language
 
 To achieve this we want to present concepts that keep appearing in the
-discussion around AI, ML (machine learning) and AIS in increasing leves of
+discussion around AI, ML (machine learning) and AIS in increasing levels of
 complexity to cater to as many readers as possible. We also want to leverage
 analogies, metaphors and drawings to serve as _intuition pumps_.
 
