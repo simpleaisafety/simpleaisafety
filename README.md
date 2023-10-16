@@ -24,7 +24,7 @@ This project is meant to be collaborative. We kindly ask informed readers to
 submit new content, corrections and other kinds of improvements. To do so you
 can submit a pull request (see below), which requires some technical
 background, write a bug report
-(https://github.com/simpleaisafety/simpleaisafety/issues/new/choose) or send us
+(https://github.com/simpleaisafety/simpleaisafety/issues/new/choose) or send 
 an e-mail to info@simpleaisafety.org
 
 
