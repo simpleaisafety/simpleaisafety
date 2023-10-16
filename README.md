@@ -10,7 +10,7 @@ We think that AI (artificial intelligence) has a lot of potential for doing
 good but worry that risks are being neglected. One of the reasons for this is
 the lack of easily accessible information both for laypeople and for people
 with a technical background but not already deep into AIS (artificial
-intelligence safety) topics. With easily accessible we mean two things:
+intelligence safety) topics. By easily accessible we mean two things:
 
 * Appropriate given the reader's background knowledge
 * In the reader's native language
