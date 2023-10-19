@@ -1,10 +1,10 @@
-- Outer Misalignment
-- Inner Misalignment
+- Outer Misalignment > partially complete
+- Inner Misalignment > partially complete
 - Mesa Optimizer
-- Reward Misspecification
+- Reward Misspecification > partially complete
 - Reinforcement Learning from Human Feedback (RLHF)
-- Reward Tampering
-- Reward Hacking
+- Reward Tampering > partially complete
+- Reward Hacking > partially complete
 - Reinforcement Learning
 - Mechanistic Interpretability
 - Alignment
@@ -23,4 +23,8 @@
 - Superalignment
 - Constitutional AI
 - Natural abstractions
+- Overfitting
+- Wireheading
+- Goodhart's Law
+- Responsible Scaling Policies
 - Shard theory
