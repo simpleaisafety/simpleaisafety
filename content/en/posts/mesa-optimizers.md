@@ -15,7 +15,7 @@ The existence and possibility of mesa optimizers is concerning, because strong o
 
 # Intermediate
 
-A lot of the more "philosophical" thinking on the dangers of AI, such as that by Nick Bostrom or Elizier Yudkowsky, focuses on "optimizers", that is AIs that shape the world in ways that move it closer to some goal, utilizing a lot of optimization power. However, most AIs nowadays are probably not "optimizers". Whether trained by reinforcement learning, or in a
+A lot of the more "philosophical" thinking on the dangers of AI, such as that by Nick Bostrom or Eliezer Yudkowsky, focuses on "optimizers", that is AIs that shape the world in ways that move it closer to some goal, utilizing a lot of optimization power. However, most AIs nowadays are probably not "optimizers". Whether trained by reinforcement learning, or in a
 (semi-)supervised way, arguably they often just end up following some behaviours that "happen" to score highly on the
 training target. This doesn't mean they have any kind of explicit internal representation of that training target, let
 alone they deliberately try to optimize for it. On the other hand, there clearly is some optimization involved in the training of AIs, often in the form of stochastic gradient descent (SGD). So usually there indeed is an optimizer at play, but the optimization tends to happen *during training* rather than *during inference* (= when the model is deployed in the real world).
