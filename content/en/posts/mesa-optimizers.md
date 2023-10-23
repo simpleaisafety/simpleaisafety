@@ -5,7 +5,7 @@ summary: Sometimes an optimization loop may create
   agents that are themselves optimizers.
 ---
 
-![Mesa Optimizers](/mesa-optimizers.jpg 'Deepl learning often involves human AI researchers tweaking some optimization process such as stochastic gradient descent, to train and output an AI model that is good at achieving some training target. Mesa optimization is the specific case where the trained model itself happens to be an optimizer, which then acts in the world and tries to move it to a certain state that\'s closer to its goal function.')
+![Mesa Optimizers](/mesa-optimizers.jpg 'Deep learning often involves human AI researchers tweaking some optimization process such as stochastic gradient descent, to train and output an AI model that is good at achieving some training target. Mesa optimization is the specific case where the trained model itself happens to be an optimizer, which then acts in the world and tries to move it to a certain state that\'s closer to its goal function.')
 
 # Basic
 
