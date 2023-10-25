@@ -1,3 +1,9 @@
+---
+title: "Outer Misalignment"
+date: 2023-10-25T13:25:45-05:00
+summary: Outer misalignment is the mismatch between what humans intend an AI system to do and the objective that is actually given to the AI. 
+---
+
 Basic
 
 At its core, outer misalignment deals with the mismatch between what humans intend for an AI system to do and the objective that is actually given to the AI.
