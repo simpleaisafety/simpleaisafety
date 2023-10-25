@@ -20,6 +20,22 @@ discussion around AI, ML (machine learning) and AIS in increasing levels of
 complexity to cater to as many readers as possible. We also want to leverage
 analogies, metaphors and drawings to serve as _intuition pumps_.
 
+The three levels of complexity are:
+
+* **Basic**: The target group is people with a high school degree or comparable
+  general knowledge. A useful simplification, since we tend to overcomplicate,
+  is to aim for: _Explain it to me like I am 5_. Even experts can frequently
+  benefit from simplified explanations of new concepts because they are easier
+  to remember and allow you to mentally start attaching other concepts to them,
+  building up a more complex mental model over time. The writer should avoid
+  technical jargon and math.
+* **Intermediate**: The target group is people with a bachelor's degree in
+  computer science, physics or some other technical subject. The writer should
+  use technical jargon, code samples and math where appropriate.
+* **Advanced**: The target group is people with a master's degree in AI/ML or
+  job experience in AI/ML. The writer should probably limit themself to linking
+  to third-party resources for now.
+
 This project is meant to be collaborative. We kindly ask informed readers to
 submit new content, corrections and other kinds of improvements. To do so you
 can submit a pull request (see below), which requires some technical
