@@ -8,4 +8,4 @@ For instance, consider a hypothetical AI tasked with minimizing the number of em
 Relation to Other Terms
 
 While outer misalignment deals with the mismatch between human intent and the AI's specified objective, [Inner Misalignment]({{< ref "/posts/inner-misalignment" >}}) deals with the discrepancy between the AI's specified objective and the AI's learned behavior.
-Reward misspecification is a subset of outer misalignment and pertains specifically to situations where the reward function (or the feedback mechanism) for an AI isn't properly defined. If the rewards provided to the AI don't encourage the right behaviors, the AI may optimize for unintended outcomes.
+[Reward Misspecification]({{< ref "/posts/reward-misspecification" >}}) is a subset of outer misalignment and pertains specifically to situations where the reward function (or the feedback mechanism) for an AI isn't properly defined. If the rewards provided to the AI don't encourage the right behaviors, the AI may optimize for unintended outcomes.
