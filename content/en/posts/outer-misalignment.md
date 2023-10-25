@@ -1,4 +1,4 @@
-Intermediate
+Basic
 
 At its core, outer misalignment deals with the mismatch between what humans intend for an AI system to do and the objective that is actually given to the AI.
 Imagine you're training a dog. You want the dog to fetch the newspaper for you, but instead of training it to do just that, you unintentionally teach it to fetch any paper-related item, including your important documents. This is a simple analogy for outer misalignment – the dog's action doesn't align with your true intentions.
