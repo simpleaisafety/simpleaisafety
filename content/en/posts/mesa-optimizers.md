@@ -11,7 +11,9 @@ summary: Sometimes an optimization loop may create
 
 The term "mesa optimization" describes the scenario where an outer optimization process, such as the training phase in machine learning, create AIs that are themselves optimizers. As of today this does not happen in most cases, as the trained AIs usually end up behaving in some rather limited way that is not very close to deliberate optimization. However, there's reason to assume that mesa optimizers will emerge from the field of machine learning eventually, because humans have reasons try harder and harder to get their training processes to create such mesa optimizers.
 
-The existence and possibility of mesa optimizers is concerning, because strong optimization coupled with misaligned goals (see e.g. reward misspecification and goal misgeneralization) can lead to very undesirable outcomes.
+One example of mesa optimization is how evolution eventually led to humans, who are (in certain ways) optimizers themselves: we tend to deliberately shape the world so as to move it closer to our preferences.
+
+This example also shows why the possibility mesa optimizers is concerning: humans are in many ways not aligned with the "goals" of evolution. Contraception is a prime example of this. If machine learning eventually leads to similarly strong mesa optimizers, coupled with similarly misaligned goals, this can lead to very undesirable outcomes.
 
 # Intermediate
 
@@ -29,9 +31,7 @@ Yet, despite these uncertainties, there are at least two reasons to take this id
 1. Even if currently training loops mostly don't end up creating mesa optimizers and maybe even lack the capabilities to identify such programs in the vast multi-dimensional search space of model weights, we just need to look one level up: behind each ML training process, there's a bunch of **human researchers** who constantly tweak the training regime in order to come up with the most capable possible models. These humans **have an incentive to keep adjusting the training process until it will eventually be able to create mesa optimizers**.
 2. **Humans could be considered exemplary for mesa optimization**: a simple outside process, namely evolution, has run an optimization on living beings, selecting inclusive genetic fitness, and eventually (quite misaligned, from the point of view of evolution) optimizers emerged in the form of humans.
 
-One caveat to all of this is that the concept of an "optimizer" is difficult to define cleanly. And while it's easy to think of optimizer-ness as a binary property, it's probably more continuous, with some AIs being more and others less "optimizer-like". Looking at the example of humans mentioned above, it's questionable to what degree humans really are optimizers. Some individuals are optimizing for their goals much more than others, but practically all humans are investing some effort to shape the world in accordance with their preferences. So while many humans exhibit optimizer-like behaviour, we're certainly far from *perfect* optimizers.
-
-If we do eventually end up with advanced optimizer AIs that strongly exceed human abilities, then it's certainly appealing to follow e.g. Bostrom's arguments about instrumental convergence or the orthogonality thesis, and become rather concerned about the safety of such AIs.
+One caveat to all of this is that the concept of an "optimizer" is difficult to define cleanly. And while it's easy to think of optimizer-ness as a binary property, it's probably more continuous, with some AIs being more and others less "optimizer-like". Looking at the example of humans mentioned above, it's not perfectly clear where on this optimizer continuum most humans would fall. Some individuals are optimizing for their goals much more than others, but practically all humans are investing some effort to shape the world in accordance with their preferences. So while many humans exhibit optimizer-like behaviour, we're certainly far from *perfect* optimizers. But whatever may be true for humans, it's easy to see that if we end up with some very capable mesa optimizer AIs, which are not properly aligned with our goals, this can lead to some very undesirable outcomes.
 
 # Advanced
 
