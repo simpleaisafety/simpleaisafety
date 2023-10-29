@@ -9,24 +9,31 @@
 - Mechanistic Interpretability > partially complete
 - Alignment
 - Value Learning
-- Corrigibility
-- Optimization
-- Takeoff
-- Timelines
-- P/doom
-- Deception
-- Agent Foundations
-- Scalable Oversight
-- Robustness
-- Evaluations (evals)
-- Adversarial training
-- Superalignment
-- Constitutional AI
-- Natural abstractions
+- Corrigibility > partially complete
+- Optimization > partially complete
+- Takeoff > partially complete
+- Timelines > partially complete
+- P/doom > partially complete
+- Deception > partially complete
+- Agent Foundations > partially complete
+- Scalable Oversight > partially complete
+- Robustness > partially complete
+- Evaluations (evals) > partially complete
+- Adversarial training > partially complete
+- Superalignment 
+- Constitutional AI > partially complete
+- Natural abstractions > partially complete
 - Shard theory
-- Overfitting
-- Wireheading
-- Goodhart's Law
+- Overfitting > partially complete
+- Wireheading > partially complete
+- Goodhart's Law > partially complete
 - Responsible Scaling Policies
-- Fine-tuning
-- Inverse Reinforcement Learning (IRL)
+- Fine-tuning > partially complete
+- Inverse Reinforcement Learning (IRL) > partially complete
+- Recursive self-improvement > partially complete
+- Containment > partially complete
+- The bitter lesson > partially complete
+- Decision theory > partially complete
+- Embedded agents > partially complete
+- Deep learning > partially complete
+- Neural networks > partially complete
