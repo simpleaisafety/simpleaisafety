@@ -27,6 +27,7 @@ While the terms of inner and outer misalignment are used frequently in AI Safety
 ## Related Concepts
 
 While outer misalignment deals with the mismatch between human intent and the AI's *specified* objective, [Inner Misalignment]({{< ref "/posts/inner-misalignment" >}}) deals with the discrepancy between the AI's specified objective and the AI's learned behavior.
+
 Outer aligment relates strongly to [Reward Misspecification]({{< ref "/posts/reward-misspecification" >}}), which describes situations where the reward function (or the feedback mechanism) for an AI isn't properly defined. If the rewards provided to the AI don't encourage the right behaviors, the AI may optimize for unintended outcomes.
 
 # Advanced
