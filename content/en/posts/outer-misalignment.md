@@ -9,10 +9,14 @@ summary: Outer misalignment is the mismatch between what humans intend an AI sys
 # Basic
 
 Outer misalignment deals with the mismatch between what humans intend for an AI system to do and the objective that is actually given to the AI.
-Imagine you're training a dog. You want the dog to fetch the newspaper for you, but because you currently have no newspaper at hand, you just pick some random pieces of paper, roll them up and use them for training. The dog now actually learns not to fetch a newspaper, but any piece of paper – possibly including important documents. That was not your intent, but the way you set up the training process it was actually "correct" for the dog to learn what it learned. This is a simple analogy for outer misalignment – the instructions which you gave to the dog don't align with your true intentions.
+
+Imagine you're training a dog. You want the dog to fetch the newspaper for you, but because you currently have no newspaper at hand, you just pick some random pieces of paper and use them for training. The dog now actually learns not to fetch a newspaper, but any piece of paper – possibly including important documents. That was not your intent, but the way you set up the training process it was actually "correct" for the dog to learn what it learned. This is a simple analogy for outer misalignment – the instructions which you gave to the dog don't align with your true intentions.
+
 
 When we specify an objective for a machine learning model, we hope it understands and follows our intent. However, the model can only be as good as the explicit instructions we provide. If there's a discrepancy between our actual intent and the specified goal, the AI might end up acting in ways that are unexpected or harmful, even though (or maybe because) it does just what is was taught.
 For instance, consider a hypothetical AI tasked with minimizing the number of emails in an inbox. If not specified correctly, the AI might simply delete all emails (including the important ones) to achieve a 'zero' inbox count. The AI technically achieved its objective, but it was not aligned with the human user's true desires.
+
+![A dog carrying a famous painting](/misaligned-dog.jpg 'A very misaligned dog, who learned not to carry newspapers, but anything resembling paper.')
 
 # Intermediate
 
