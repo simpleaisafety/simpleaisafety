@@ -1,6 +1,6 @@
 ---
 title: "Fehlspezifikation von Belohnungen"
-date: 2023-10-14T12:41:22+02:00
+date: 2023-11-25T12:53:04+02:00
 summary: Es ist schwierig, eine Belohnungsfunktion zu erstellen, die
   genau das widerspiegelt, was wir wollen.
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Mesa-Optimierer"
-date: 2023-10-22T13:25:53+02:00
+date: 2023-11-25T17:35:20+02:00
 summary: Manchmal kann ein Optimierungsprozess Agenten erschaffen,
   die selbst Optimierer sind.
 ---
