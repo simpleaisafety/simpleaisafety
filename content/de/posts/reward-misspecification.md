@@ -33,8 +33,8 @@ Es gibt auch den Begriff des "Specification Gamings", der allgemein den Prozess 
 
 # Fortgeschritten
 
-- https://course.aisafetyfundamentals.com/alignment?session=2
-- "Die Auswirkungen von Fehlspezifikation von Belohnungen": https://arxiv.org/abs/2201.03544
-- https://openai.com/research/learning-from-human-preferences
-- https://www.deepmind.com/blog/specification-gaming-the-flip-side-of-ai-ingenuity
-- Tabelle mit vielen Beispielen für Fehlgeneralisierung von Zielen: https://docs.google.com/spreadsheets/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml 
+- [Englisch] https://course.aisafetyfundamentals.com/alignment?session=2
+- [Englisch] "Die Auswirkungen von Fehlspezifikation von Belohnungen": https://arxiv.org/abs/2201.03544
+- [Englisch] https://openai.com/research/learning-from-human-preferences
+- [Englisch] https://www.deepmind.com/blog/specification-gaming-the-flip-side-of-ai-ingenuity
+- [Englisch] Tabelle mit vielen Beispielen für Fehlgeneralisierung von Zielen: https://docs.google.com/spreadsheets/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml

@@ -5,7 +5,7 @@ summary: Manchmal kann ein Optimierungsprozess Agenten erschaffen,
   die selbst Optimierer sind.
 ---
 
-![Mesa-Optimierer](/mesa-optimizers.jpg 'Deep Learning beinhaltet oft, dass menschliche KI-Forscher einen Optimierungsprozess wie Stochastic Gradient Descent verwenden, um ein KI-Modell zu trainieren, das gut darin ist, ein Trainingsziel zu erreichen. Mesa-Optimierung ist der spezifische Fall, in dem das trainierte Modell selbst ein Optimierer ist, der dann in der Welt handelt und versucht, sie in einen Zustand zu bringen, der seinem Ziel näher ist.')
+![Mesa-Optimierer](/mesa-optimizers.jpg 'Deep Learning beinhaltet oft, dass menschliche KI-Forscher einen Optimierungsprozess wie Stochastischen Gradientenabstieg verwenden, um ein KI-Modell zu trainieren, das gut darin ist, ein Trainingsziel zu erreichen. Mesa-Optimierung ist der spezifische Fall, in dem das trainierte Modell selbst ein Optimierer ist, der dann in der Welt handelt und versucht, sie in einen Zustand zu bringen, der seinem Ziel näher ist.')
 
 # Grundlagen
 
@@ -32,6 +32,6 @@ Ein Vorbehalt bei alldem ist, dass das Konzept eines "Optimierers" schwer sauber
 
 # Fortgeschritten
 
-- Risks from Learned Optimization: https://www.alignmentforum.org/posts/FkgsxrGf3QxhfLWHG/risks-from-learned-optimization-introduction
-- Ein Video von Robert Miles über Mesa-Optimierer: https://www.youtube.com/watch?v=bJLcIBixGj8 
-- Mesa optimization: what it is, and why we should care: https://www.lesswrong.com/posts/XWPJfgBymBbL3jdFd/an-58-mesa-optimization-what-it-is-and-why-we-should-care 
+- [Englisch] Risks from Learned Optimization: https://www.alignmentforum.org/posts/FkgsxrGf3QxhfLWHG/risks-from-learned-optimization-introduction
+- [Englisch] Ein Video von Robert Miles über Mesa-Optimierer: https://www.youtube.com/watch?v=bJLcIBixGj8
+- [Englisch] Mesa optimization: what it is, and why we should care: https://www.lesswrong.com/posts/XWPJfgBymBbL3jdFd/an-58-mesa-optimization-what-it-is-and-why-we-should-care
